@@ -1,1 +1,6 @@
-
+div p {
+    background-color: #ffff14;
+    color: #ff1010;
+    font-size: 20px;
+    text-align: center;
+}
