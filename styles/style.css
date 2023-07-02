@@ -1,3 +1,8 @@
+body {
+    font-size: large;
+    line-height: 125%;
+}
+
 ul.links {
     list-style: none;
     padding: 0px;
